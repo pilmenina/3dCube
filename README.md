@@ -11,6 +11,7 @@ http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/#transfor
 http://www.cplusplus.com/reference/clibrary/
 https://www.3dgep.com/understanding-the-view-matrix/
 https://medium.com/swlh/understanding-3d-matrix-transforms-with-pixijs-c76da3f8bd8
+https://www.sfml-dev.org/tutorials/2.5/
 
 and some videos that I searched about how to multiply matrices and such.
 
