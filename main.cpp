@@ -6,9 +6,6 @@
 
 #define fps 1000/60
 
-//TODO: Make the cube appear in the middle of the screen
-//TODO: Rotate the cube
-
 // functions
 void drawCube(sf::RenderWindow& window);
 
